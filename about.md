@@ -98,6 +98,8 @@ Date|Degree| Institution
 
 Year| | Agency|Amount
 --|--|--|--
-2021| | **USDA- Agriculture Research Service** *Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* <br /> (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
-2021| | **National Science Foundation** *How do multiple coastal stressors structure the genomic diversity of marine populations?* <br /> (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
+2021| | **USDA- Agriculture Research Service** <br />*Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* <br /> (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
+2021| | **National Science Foundation** <br />*How do multiple coastal stressors structure the genomic diversity of marine populations?* <br /> (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
+2020| | **National Science Foundation**<br /> *EAGER: Development of a tool to rapidly and cost-effectively sequence the exome of any organism* <br /> (PI Puritz; Total to Puritz: $298,978; Project Total: $298,978) | **$298,978**
+
 
