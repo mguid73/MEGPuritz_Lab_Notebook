@@ -100,7 +100,7 @@ Date|Degree| Institution
 
 #### Awards from the last five years
 Year| | Agency| Amount to URI | Project Total 
---|--|--|--
+--|--|--|--|--
 2021| | **USDA- Agriculture Research Service** <br />*Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* <br /> PIs Puritz and Proestou  | **$250,000** | **$300,000**
 2021| | **National Science Foundation** <br />*How do multiple coastal stressors structure the genomic diversity of marine populations?* <br /> PI Puritz | **$680,898** | **$680,898** 
 2020| | **National Science Foundation**<br /> *EAGER: Development of a tool to rapidly and cost-effectively sequence the exome of any organism* <br /> PI Puritz | **$298,978** |**$298,978**
