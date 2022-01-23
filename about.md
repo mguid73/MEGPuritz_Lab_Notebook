@@ -10,7 +10,7 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
 ### More Information
 
-wwww.MarineEvoEco.com
+[Lab Website](www.MarineEvoEco.com)
 
 ### Contact me
 
