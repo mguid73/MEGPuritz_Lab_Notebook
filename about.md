@@ -94,3 +94,11 @@ Date|Degree| Institution
 2. Haney, R. A., Dionne, M., Puritz, J. B., Rand, D. M.  The comparative phylogeography of east coast estuarine fishes in formerly glaciated sites:  Persistence versus Recolonization in Cyprinodon variegatus ovinus and Fundulus heteroclitus macrolepidotus.  **Journal of Heredity**. DOI: 10.1093/jhered/esn107. **2008**.
 1. Walker, A. N., Bush, P., Puritz, J. B., Wilson, T., Chang, E. S., Miller, T., Holloway, K., Horst, M. N. Bioaccumulation and metabolic effects of the endocrine disruptor methoprene in the lobster, Homarus americanus.  **Integrative and Comparative Biology**. DOI: 10.1093/icb/45.1.118. **2005**.
 {: reversed="reversed"}
+
+### GRANTS AWARDED 
+#### Total funding = $2,290,153
+
+Year|Agency| Amount
+--|--|--
+2021| **USDA- Agriculture Research Service** *Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
+2021| **National Science Foundation** *How do multiple coastal stressors structure the genomic diversity of marine populations?* (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
