@@ -36,17 +36,18 @@ Time|Position| Affiliation
 
 ### EDUCATION
 
-Date|Position| Affiliation
+Date|Degree| Institution
 --|--|--
-2012 |	PhD in Zoology | University of Hawaii, Manoa
- - |Dissertation| Resilience and acclimatization potential of reef corals under predicted climate change stressors 
-2004 |	BSc | University of Wisconsin, Superior (UWS)
-- | Dual Majors | Biology and Broad Field Science
+2012 |	PhD in Zoology | University of Hawaii, Manoa|
+2005 |	BSc | Biology with Honors| Brown University|
+
 
 
 ### PUBLICATIONS 
 
-(= equal contribution)
+[Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=r8AKf2UAAAAJ&hl=en)
-
+|--|--|
+|1890| Citations|
+|29| Peer reviewed journal articles and book chapters|
+|19| h-index|
