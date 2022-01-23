@@ -48,8 +48,8 @@ Date|Degree| Institution
 [Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
 #### Statistics
-|Statistic|Metric|
-|---|---|
+|Statistic |Metric |
+|----------|-------|
 |1890| Citations|
 |29| Peer reviewed journal articles and book chapters|
 |19| h-index|
