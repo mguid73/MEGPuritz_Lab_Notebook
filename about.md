@@ -59,6 +59,5 @@ Date|Degree| Institution
 |Year|Citation|
 |---|------|
 |2022|Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin.** |
-|2022| Hart, M. W. Guerra, V., Byrne, M., Puritz, J.B.  Genomic data improve coalescent inference 
-across a range of demographic parameters and life-histories. Under Review at Evolutionary Applications.  Preprint DOI: 10.22541/au.159990335.58331776 | 
+|2022| Hart, M. W. Guerra, V., Byrne, M., Puritz, J.B.  Genomic data improve coalescent inference across a range of demographic parameters and life-histories. Under Review at Evolutionary Applications.  Preprint DOI: 10.22541/au.159990335.58331776 | 
 
