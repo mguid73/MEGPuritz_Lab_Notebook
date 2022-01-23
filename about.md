@@ -94,9 +94,7 @@ Date|Degree| Institution
 {: reversed="reversed"}
 
 ### GRANTS AWARDED 
-#### Total funding = $2,290,153
-
-<br /> 
+***Total funding = $2,290,153***
 
 #### Awards from the last five years
 
