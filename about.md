@@ -56,40 +56,41 @@ Date|Degree| Institution
 
 #### *Pre-prints, accepted manuscripts, and manuscripts under review*
 
-1. Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin.** 2022.
-2. Hart, M. W. Guerra, V., Byrne, M., Puritz, J.B.  Genomic data improve coalescent inference across a range of demographic parameters and life-histories. **Under Review at Evolutionary Applications.**  Preprint DOI: 10.22541/au.159990335.58331776. 2022.
+1. Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin**. 2022.
+2. Hart, M. W. Guerra, V., Byrne, M., Puritz, J.B.  Genomic data improve coalescent inference across a range of demographic parameters and life-histories. **Under Review at Evolutionary Applications**.  Preprint DOI: 10.22541/au.159990335.58331776. 2022.
 
 #### *Published*
 
-29. Portnoy, D.S., Fields, A.T., Puritz, J.B., Hollenbeck, C.M., Patterson, W.F.  Genomic Analysis o Red Snapper, Lutjanus campechanus, Population Structure in the U.S. Atlantic and Gulf of Mexico.  ICES Journal of Marine Science. DOI: 10.1093/icesjms/fsab239
+29. Portnoy, D.S., Fields, A.T., Puritz, J.B., Hollenbeck, C.M., Patterson, W.F.  Genomic Analysis o Red Snapper, Lutjanus campechanus, Population Structure in the U.S. Atlantic and Gulf of Mexico.  **ICES Journal of Marine Science**. DOI: 10.1093/icesjms/fsab239
 
-28. Trigg, S.A., Venkataraman, Y.R., Gavery, M., Roberts, S.B., Bhattacharya, D., Downey-Wall, A. Eirin Lopez, J.M., Johnson, K.M., Lotterhos, K.E., Puritz, J.B., Putnam, H.M. Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. Molecular Ecology Resources. DOI: 10.1111/1755-0998.13542
+28. Trigg, S.A., Venkataraman, Y.R., Gavery, M., Roberts, S.B., Bhattacharya, D., Downey-Wall, A. Eirin Lopez, J.M., Johnson, K.M., Lotterhos, K.E., Puritz, J.B., Putnam, H.M. Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. **Molecular Ecology Resources**. DOI: 10.1111/1755-0998.13542
 
-27. Modak, T. H., Literman, R., Puritz, J.B., Johnson, K. J., Roberts, E. M., Proestou, D., Guo, X., Gomez-Chiarri, M., Schwartz, R. S.  Extensive genome-wide copy number variation in the eastern oyster (Crassostrea virginica).  Phil. Trans. R. Soc. B. DOI: 10.1098/rstb.2020.0164
+27. Modak, T. H., Literman, R., Puritz, J.B., Johnson, K. J., Roberts, E. M., Proestou, D., Guo, X., Gomez-Chiarri, M., Schwartz, R. S.  Extensive genome-wide copy number variation in the eastern oyster (Crassostrea virginica).  **Phil. Trans. R. Soc. B.** DOI: 10.1098/rstb.2020.0164
 
-26. Catalano, K. A., Dedrick, A. G., Stuart, M. R., Puritz, J. B., Montes Jr., H. R., Pinsky, M. L. Quantifying dispersal variability among nearshore marine populations. Molecular Ecology. DOI: 10.1111/mec.15732
+26. Catalano, K. A., Dedrick, A. G., Stuart, M. R., Puritz, J. B., Montes Jr., H. R., Pinsky, M. L. Quantifying dispersal variability among nearshore marine populations. **Molecular Ecology**. DOI: 10.1111/mec.15732
 
-25. Hart, M.W. and Puritz, J.B. Correction to ‘Extraordinarily rapid life-history divergence between Cryptasterina sea star species’. Proceedings of the Royal Society B, 287(1930), p.20201325. DOI: 10.1098/rspb.2020.1325
+25. Hart, M.W. and Puritz, J.B. Correction to ‘Extraordinarily rapid life-history divergence between Cryptasterina sea star species’. **Proceedings of the Royal Society B**. DOI: 10.1098/rspb.2020.1325
 
-24. O'Leary, S.J., Puritz, J. B., Willis, S.C., Hollenbeck, C.M. and Portnoy, D.S., 2018. These aren' the loci you're looking for: Principles of effective SNP filtering for molecular ecologists. Molecula ecology. DOI: 10.1111/mec.14792 A top downloaded paper of 2019
+24. O'Leary, S.J., Puritz, J. B., Willis, S.C., Hollenbeck, C.M. and Portnoy, D.S., 2018. These aren' the loci you're looking for: Principles of effective SNP filtering for molecular ecologists. Molecula ecology. DOI: 10.1111/mec.14792 
+    * A top downloaded paper of 2019
 
 23. Schiebelhut, L.M., Puritz, J. B., and Dawson, M.N. Decimation by sea star wasting disease and rapid genetic change in a keystone species, Pisaster ochraceus. Proceedings of the National Academy of Sciences. DOI: 10.1073/pnas.1800285115
 
-22. Puritz, J. B., and Lotterhos, K. E.  Expressed Exome Capture Sequencing (EecSeq): a method for cost-effective exome sequencing for all organisms with or without genomic resources. Molecular Ecology Resources. DOI: 10.1111/1755-0998.12905
+22. Puritz, J. B., and Lotterhos, K. E.  Expressed Exome Capture Sequencing (EecSeq): a method for cost-effective exome sequencing for all organisms with or without genomic resources. ****Molecular Ecology Resources**. DOI: 10.1111/1755-0998.12905
 
 21. Puritz, J. B., Keever, C. C., Addison, J. A., Barbosa, S. S., Byrne, M., Hart, M. W., Grosberg, R K., Toonen, R. J. Life history predicts past and present population connectivity in two sympatric sea stars.  Ecology and Evolution. DOI: 10.1002/ece3.2938
 
-20. Willis, S. C., Hollenbeck, C. M., Puritz, J.B., Gold, J. R., Portnoy, D. S.  Haplotyping RAD loci as an efficient method to characterize and filter paralogs and manage linkage disequilibrium. Molecular Ecology Resources. DOI: 10.1111/1755-0998.12647
+20. Willis, S. C., Hollenbeck, C. M., Puritz, J.B., Gold, J. R., Portnoy, D. S.  Haplotyping RAD loci as an efficient method to characterize and filter paralogs and manage linkage disequilibrium. ****Molecular Ecology Resources**. DOI: 10.1111/1755-0998.12647
 
 19. Puritz, J. B., Portnoy, D. S., Gold, J. R.  Fine-scale partitioning of genomic variation among recruits in an exploited fishery: causes and consequences.  Scientific Reports. DOI: 10.1038/srep36095
 
 18. Selkoe, K.A., D’Aloia, C. C., Crandall, E. D., Iacchei, M. I., Liggins, L., Puritz, J. B., von der Heyden, S., Toonen, R. J.  A decade of seascape genetics: contributions to basic and applied marine connectivity. Marine Ecology Progress Series. DOI:10.3354/meps11792 Feature Article
 
-17. Portnoy, D. S., Puritz, J. B., Hollenbeck, C. M., Gelsleichter, J., Chapman, D., Gold, J. R. Selection and sex-biased dispersal in a coastal shark: the influence of philopatry on adaptive variation. Molecular Ecology. DOI: 10.1111/mec.13441
+17. Portnoy, D. S., Puritz, J. B., Hollenbeck, C. M., Gelsleichter, J., Chapman, D., Gold, J. R. Selection and sex-biased dispersal in a coastal shark: the influence of philopatry on adaptive variation. **Molecular Ecology**. DOI: 10.1111/mec.13441
 
 16. Gold, J. R., Willis, S. C., Renshaw, M. A., Buentello, A., Walker, Jr., H. J., Puritz, J. B., Hollenbeck, C. M., Voelker G.  Phylogenetic relationships of tropical eastern Pacific snappers (Lutjanidae) inferred from mtDNA sequences.  Systematics and Biodiversity. DOI:10.1080/14772000.2015.1078857
 
-15. Puritz, J.B., Matz, M. V., Toonen, R. J., Weber, J. N., Bolnick, D. I., Bird, C. E. Comment: Demystifying the RAD fad.  Molecular Ecology. DOI: 10.1111/mec.12965 2nd Most Accessed Paper for 2014-2015
+15. Puritz, J.B., Matz, M. V., Toonen, R. J., Weber, J. N., Bolnick, D. I., Bird, C. E. Comment: Demystifying the RAD fad.  **Molecular Ecology**. DOI: 10.1111/mec.12965 2nd Most Accessed Paper for 2014-2015
 
 14. Puritz, J. B., Hollenbeck, C. M., Gold, J. R.  dDocent: a RADseq, variant-calling pipeline designed for population genomics of non-model organisms. PeerJ. DOI: 10.7717/peerj.431
 
@@ -99,7 +100,7 @@ Date|Degree| Institution
 
 11. Keever, C., Puritz, J. B., Addison, J. A., Byrne, M., Grosberg, R. K., Toonen R. J., Hart, M.W. Shallow gene pools in the high intertidal: Extreme loss of genetic diversity in viviparous sea stars (Parvulastra).  Biology Letters. DOI:10.1098/rsbl.2013.0551
 
-10. Andrews, K. R., Perrin, W. F., Oremus, M. Karczmarski, L., Bowen, B. W., Puritz, J. B., Toonen, R. J.  The evolving male: spinner dolphin (Stenella longirostris) ecotypes are divergent at Y chromosome but not mtDNA or autosomal markers.  Molecular Ecology. 10.1111/mec.12193
+10. Andrews, K. R., Perrin, W. F., Oremus, M. Karczmarski, L., Bowen, B. W., Puritz, J. B., Toonen, R. J.  The evolving male: spinner dolphin (Stenella longirostris) ecotypes are divergent at Y chromosome but not mtDNA or autosomal markers.  **Molecular Ecology**. 10.1111/mec.12193
 
 9. Barbosa, S., Klaten, S., Puritz, J. B., Toonen, R. J., Byrne, M.  Very fine scale population genetic structure of sympatric asterinid sea stars with benthic and pelagic larvae: influence of mating system and dispersal potential.  Biological Journal of the Linnean Society. DOI: 10.1111/bij.12006
 
@@ -118,3 +119,4 @@ Date|Degree| Institution
 2. Haney, R. A., Dionne, M., Puritz, J. B., Rand, D. M.  The comparative phylogeography of east coast estuarine fishes in formerly glaciated sites:  Persistence versus Recolonization in Cyprinodon variegatus ovinus and Fundulus heteroclitus macrolepidotus.  Journal of Heredity DOI: 10.1093/jhered/esn107
 
 1. Walker, A. N., Bush, P., Puritz, J. B., Wilson, T., Chang, E. S., Miller, T., Holloway, K., Horst, M. N. Bioaccumulation and metabolic effects of the endocrine disruptor methoprene in the lobster, Homarus americanus.  Integrative and Comparative Biology. DOI: 10.1093/icb/45.1.118
+{: reversed="reversed"}
