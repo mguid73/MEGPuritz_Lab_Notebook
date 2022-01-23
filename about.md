@@ -48,8 +48,6 @@ Date|Degree| Institution
 [Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
 #### Statistics
-|   |   | 
-----------|-------
 1890      | Citations
 29        | Peer reviewed journal articles and book chapters
 19        | h-index
@@ -98,7 +96,8 @@ Date|Degree| Institution
 ### GRANTS AWARDED 
 #### Total funding = $2,290,153
 
-Year|Agency|Amount
---|--|--
-2021| **USDA- Agriculture Research Service** *Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
-2021| **National Science Foundation** *How do multiple coastal stressors structure the genomic diversity of marine populations?* (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
+Year| | Agency|Amount
+--|--|--|--
+2021| | **USDA- Agriculture Research Service** *Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* <br /> (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
+2021| | **National Science Foundation** *How do multiple coastal stressors structure the genomic diversity of marine populations?* <br /> (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
+
