@@ -27,8 +27,8 @@ wwww.MarineEvoEco.com
 
 Time|Position| Affiliation
 --|--|--
-2017-Present	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
-2016-17 		| Postdoctoral Research Associate | Marine Science Center, Northeastern University
+2017-	| Assistant Professor | University of Rhode Island, Department of Biological Sciences
+2016 - 17 		| Postdoctoral Research Associate | Marine Science Center, Northeastern University
 2014 - 16	| Postdoctoral Research Associate, Adjunct Graduate Faculty | Harte Research Institute, Texas A&M Corpus Christi
 2012 - 14	| Postdoctoral Research Associate | Department of Wildlife and Fisheries Science, Texas A&M University
 2012 		| Postdoctoral Scholar, Lecturer | Hawaii Institute of Marine Biology, University of Hawaii at Manoa
@@ -55,7 +55,9 @@ Date|Degree| Institution
 
 #### *Pre-prints, accepted manuscripts, and manuscripts under review*
 
-|Year| Citation|
+|Year|Citation|
 |---|------|
-|2022| Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin.**   |
-|2022| 
+|2022|Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin.** |
+|2022| Hart, M. W. Guerra, V., Byrne, M., Puritz, J.B.  Genomic data improve coalescent inference 
+across a range of demographic parameters and life-histories. Under Review at Evolutionary Applications.  Preprint DOI: 10.22541/au.159990335.58331776 | 
+
