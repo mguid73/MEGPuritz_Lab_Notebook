@@ -60,6 +60,7 @@ Date|Degree| Institution
 #### *Published*
 
 29. Portnoy, D.S., Fields, A.T., Puritz, J.B., Hollenbeck, C.M., Patterson, W.F.  Genomic Analysis o Red Snapper, Lutjanus campechanus, Population Structure in the U.S. Atlantic and Gulf of Mexico.  **ICES Journal of Marine Science**. DOI: 10.1093/icesjms/fsab239. **2022**.
+
 28. Trigg, S.A., Venkataraman, Y.R., Gavery, M., Roberts, S.B., Bhattacharya, D., Downey-Wall, A. Eirin Lopez, J.M., Johnson, K.M., Lotterhos, K.E., Puritz, J.B., Putnam, H.M. Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases. **Molecular Ecology Resources**. DOI: 10.1111/1755-0998.13542. **2021**.
 27. Modak, T. H., Literman, R., Puritz, J.B., Johnson, K. J., Roberts, E. M., Proestou, D., Guo, X., Gomez-Chiarri, M., Schwartz, R. S.  Extensive genome-wide copy number variation in the eastern oyster (Crassostrea virginica).  **Phil. Trans. R. Soc. B.** DOI: 10.1098/rstb.2020.0164. **2021**.
 26. Catalano, K. A., Dedrick, A. G., Stuart, M. R., Puritz, J. B., Montes Jr., H. R., Pinsky, M. L. Quantifying dispersal variability among nearshore marine populations. **Molecular Ecology**. DOI: 10.1111/mec.15732. **2021**.
