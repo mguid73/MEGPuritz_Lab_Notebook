@@ -39,7 +39,7 @@ Time|Position| Affiliation
 Date|Degree| Institution
 --|--|--
 2012 |	PhD in Zoology | University of Hawaii, Manoa|
-2005 |	BSc | Biology with Honors| Brown University|
+2005 |	BSc in Biology with Honors| Brown University|
 
 
 
@@ -48,7 +48,7 @@ Date|Degree| Institution
 [Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
 #### Statistics
-|Statistic|Metric|
+|---|---|
 |1890| Citations|
 |29| Peer reviewed journal articles and book chapters|
 |19| h-index|
@@ -58,3 +58,4 @@ Date|Degree| Institution
 |Year| Citation|
 |---|------|
 |2022| Schiebelhut, L., Giakoumis, M., Castilho, R., Duffin, P.J., Puritz, J.B., Wares, J.P., Wessel, G.M., Dawson, M.N.  No short-term change in genetic estimates of effective population size despite massive widespread mortality in Pisaster ochraceus.  **Under Review at the Biological Bulletin.**   |
+|2022| 
