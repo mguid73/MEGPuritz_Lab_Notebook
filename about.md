@@ -48,7 +48,6 @@ Date|Degree| Institution
 [Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
 #### Statistics
-|             |             |
 |-------------|-------------|
 |1890| Citations|
 |29| Peer reviewed journal articles and book chapters|
