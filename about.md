@@ -44,13 +44,12 @@ Date|Degree| Institution
 
 
 ### PUBLICATIONS 
-
 [Google Scholar Profile](https://scholar.google.com/citations?user=l3CNKC4AAAAJ&hl=en&oi=ao)
 
 #### Statistics
-|1890      | Citations|
-|29        | Peer reviewed journal articles and book chapters|
-|19        | h-index|
+1890      | Citations
+29        | Peer reviewed journal articles and book chapters
+19        | h-index
 
 #### *Pre-prints, accepted manuscripts, and manuscripts under review*
 
@@ -101,5 +100,7 @@ Year| | Agency|Amount
 2021| | **USDA- Agriculture Research Service** <br />*Population genomic evaluation of wild and cultured Eastern oyster populations from the Northeast region* <br /> (PI Puritz; Total to Puritz: 250,000; additional $50,000 in match Project Total: $300,000) | **$250,000**
 2021| | **National Science Foundation** <br />*How do multiple coastal stressors structure the genomic diversity of marine populations?* <br /> (PI Puritz; Total to Puritz: $680,898; Project Total: $680,898)| **$680,898**
 2020| | **National Science Foundation**<br /> *EAGER: Development of a tool to rapidly and cost-effectively sequence the exome of any organism* <br /> (PI Puritz; Total to Puritz: $298,978; Project Total: $298,978) | **$298,978**
+2019| | **Rhode Island Sea Grant** <br /> *How do multiple coastal stressors limit oyster recruitment?* <br /> (PI Puritz; Total to Puritz: $249,192; additional $124,617 in match
+Project Total: $373,809) | **$249,192**
 
 
