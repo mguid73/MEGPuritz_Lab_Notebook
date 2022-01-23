@@ -49,6 +49,7 @@ Date|Degree| Institution
 
 #### Statistics
 |Statistic|Metric|
+|---|---|
 |1890| Citations|
 |29| Peer reviewed journal articles and book chapters|
 |19| h-index|
