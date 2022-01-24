@@ -13,7 +13,8 @@ sitemap: false
         {% else %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-            {% if year != nyear %}</ul>
+            {% if year != nyear %}
+            {% if forloop.index != 1 %}</ul>{% endif %}
                 <h2 class="archivetitletopbottom">{{ post.date | date: '%Y' }}</h2>
             {% endif %}
         {% endunless %}
@@ -28,8 +29,7 @@ sitemap: false
         {% if post.link %}
             <h3 class="link-post">
                 <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i>
-</a></h3>
+                <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h3>
         {% else %}
         <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>
         {% endif %}
