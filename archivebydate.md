@@ -9,13 +9,13 @@ sitemap: false
 <div id="index">
     {% for post in site.posts %}
         {% unless post.next %}
-            <h1 class="archivetitletopbottom">{{ post.date | date: '%Y' }}</h2>
+            <h1 class="archivetitletopbottom">{{ post.date | date: '%Y' }}</h1>
         {% else %}
             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
             {% if year != nyear %}
             {% if forloop.index != 1 %}</ul>{% endif %}
-                <h1 class="archivetitletopbottom">{{ post.date | date: '%Y' }}</h2>
+                <h1 class="archivetitletopbottom">{{ post.date | date: '%Y' }}</h1>
             {% endif %}
         {% endunless %}
             
