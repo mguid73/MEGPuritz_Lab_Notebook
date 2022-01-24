@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DNA Only Extraction of Last 8 Sea Star Samples
+title: "DNA Only Extraction of Last 8 Sea Star Samples"
 tags: [ DNA, Pentagona, Hystera, ]
 ---
 

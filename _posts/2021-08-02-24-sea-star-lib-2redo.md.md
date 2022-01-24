@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 22 Sea Star WGS Library Preps and 2 Redos
+title: "22 Sea Star WGS Library Preps and 2 Redos"
 tags: [ DNA, Sea Stars ]
 ---
 
