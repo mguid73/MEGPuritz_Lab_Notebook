@@ -34,4 +34,4 @@ sitemap: false
         <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>
         {% endif %}
         {% endfor %}
-</div>
+</ul></div>
