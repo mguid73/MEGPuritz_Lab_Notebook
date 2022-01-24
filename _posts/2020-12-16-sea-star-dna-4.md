@@ -4,7 +4,7 @@ title: DNA Only Extraction of Last 8 Sea Star Samples
 tags: [ DNA, Pentagona, Hystera, ]
 ---
 
-**Copy of Original Post from Maggie Schedl's Notebook** [Link to Original](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2020-12-16/sea-star-dna-4)
+*Copy of Original Post from Maggie Schedl's Notebook* [Link to Original](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2020-12-16/sea-star-dna-4)
 
 # The Last Set of DNA Extractions with 8 Hystera and Pentagona With the [Zymo Research Quick-DNA Miniprep Plus Kit](https://www.zymoresearch.com/collections/quick-dna-kits/products/quick-dna-miniprep-plus-kit)
 
