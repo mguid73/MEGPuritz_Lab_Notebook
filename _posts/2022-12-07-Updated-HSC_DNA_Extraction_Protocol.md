@@ -6,20 +6,20 @@ categories: Processing, Protocols
 tags: [DNA]
 projects: [Horseshoe Crab RADseq]
 ---
-## Horseshoe Crab DNA Extraction with Zymo Quick DNA Miniprep Plus kit - Protocol Only
->*Modified* protocol formatting from [Natalie Ameral's protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-6/) \
+*Modified* protocol formatting from [Natalie Ameral's protocol](https://njameral.github.io/Ameral_Lab_Notebook/Horseshoe-Crab-DNA-Extraction-6/) \
 Changes include:
->* Materials required section (with # of tubes per sample and suggested tube labels)
->* Purpose added
+* Materials required section (with # of tubes per sample and suggested tube labels)
+* Purpose added
 
 
 
-### Purpose
+## Purpose
 Extracting DNA from horseshoe crab tissue for ddRAD library prep. 
 
-### Materials required
+## Materials required
 **Tubes needed (*per sample*)** \
 *Tip: Set up and label all tubes before beginning protocol*
+
 |Tube | Suggested label| Step used|
 ------|----------------|----------|
 |PBS tube|PBS_SampleID| Tissue processing|
@@ -27,8 +27,8 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
 |Pellet tube|SampleID| Extraction|
 |Spin column tube 1 (sample loading)|SampleID|Extraction|
 |Spin column tube 2 (wash)|SampleID|Extraction|
-|Final DNA tube (1.5ml)|SampleID, Date, HSC, DNA, initials|Extraction
-|Strip tubes|SampleID| Extraction
+|Final DNA tube (1.5ml)|SampleID, Date, HSC, DNA, initials|Extraction|
+|Strip tubes|SampleID| Extraction|
 
 **Cleaning**
 * Type 2 DI water squirt bottle
@@ -68,7 +68,7 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
 
 
 
-### Tissue Processing
+## Tissue Processing
 
   1. Take samples out of -80 freezer to thaw slowly in ice bucket
   2. Label 1 1.5mL tube for each sample with "Sample # PBS" and 1 1.5mL tube for each sample with "Sample #"
@@ -97,7 +97,7 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
   23. Set thermomixer to 55 C
   24. Once warm, put samples in thermomixer for 2 hours at at 1200 rmp
 
-### Extraction
+## Extraction
 
   25. While samples are in thermomixer, set up new 1.5mL tubes with "Sample #" (one for each sample)
   26. Turn off thermomixer
