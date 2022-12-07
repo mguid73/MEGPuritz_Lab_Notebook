@@ -36,12 +36,13 @@ Date|Degree| Institution
 
 
 ### FELLOWSHIPS
-Date|Fellowship
---|--
-2020-present|NSF Graduate Research Fellowship
-2021-2021|Alpha Lambda Delta Miriam Shelden Graduate Fellowship
-2019|NSF-REU, UC Santa Barbara
-2018|NSF-REU, UT Knoxville
+
+Date|Fellowship|
+--|--|
+2020-present|NSF Graduate Research Fellowship|
+2021-2021|Alpha Lambda Delta Miriam Shelden Graduate Fellowship|
+2019|NSF-REU, UC Santa Barbara|
+2018|NSF-REU, UT Knoxville|
 
 ### PUBLICATIONS 
 [Google Scholar Profile](https://scholar.google.com/citations?user=T5LmYfIAAAAJ&hl=en)
