@@ -36,31 +36,31 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
 * 70% ethanol squirt bottle
 
 **Tissue processing** 
-* scalpel handle and x blades per sample
+* scalpel handle and 1 blade per sample
 * forceps
 * foil
 * ice bucket
 * sample tubes (thawed in ice bucket)
-* Type 2 DI water (in beaker for PBS dilution)
-* PBS (location?)
-* DNA/RNA shield (location?)
+* Type 2 DI water (in faclon tube for PBS dilution)
+* PBS
+* DNA/RNA shield
 * proteinase K (in -20 freezer)
 * Blue tissue buffer (Zymo Quick DNA MiniPrep Plus kit)
 * vortexer
-* mini centrifuge (?)
+* mini centrifuge
 * thermomixer
 * tubes
 
 **Extraction** 
 * thermomixer
-* centrifuge (which one?)
+* centrifuge 
 * HCl Tris (100 uL * (# of samples +1)) - warmed in thermomixer
 * tubes
-* spin columns + tubes (one per sample)
+* spin columns + tubes (Zymo Quick DNA MiniPrep Plus kit
 * liquid waster container 
 * Genomic Binding Buffer (Zymo Quick DNA MiniPrep Plus kit)
 * vortexer
-* mini centrifuge (?)
+* mini centrifuge
 * DNA pre-wash (Zymo Quick DNA MiniPrep Plus kit)
 * DNA wash buffer (Zymo Quick DNA MiniPrep Plus kit)
 * labeled freezer box (name, date, lab name, DNA extraction, species, project, box #)
@@ -73,20 +73,20 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
   1. Take samples out of -80 freezer to thaw slowly in ice bucket
   2. Label 1 1.5mL tube for each sample with "Sample # PBS" and 1 1.5mL tube for each sample with "Sample #"
   3. Add 270ul of DI type II water to each of the PBS tubes
-  4. Add 30ul of PBS solution to each of the PBS tubes
+  4. Add 30ul of PBS solution to each of the PBS tubes\
   *Above 2 steps create 300ul of 1X PBS solution*
   5. Add 300ul of DNA/RNA shield to each of the 1.5mL tubes labeled with "Sample #"
-  6. Prepare scalpel handle and forceps by cleaning with 10% bleach solution, DI II water, and 70% ethanol solution
+  6. Prepare scalpel handle and forceps by cleaning with 10% bleach solution, DI II water, and 70% ethanol solution\
   *From this step forward this cleaning process will simply be referred to as "cleaning protocol"*
-  7. Place new piece of tinfoil on benchtop and put new scalpel blade on handle
-  8. Remove first sample from tube
+  7. Place new piece of tinfoil on benchtop and put new scalpel blade on handle (new foil and blade for each sample)
+  8. Remove sample from tube
   9. Carefully cut a small piece of tissue away from exoskeleton
   10. Finely chop piece of tissue into thin transparent layer
   11. Place pea sized amount of tissue into tube labeled with corresponding sample number and "PBS"
   12. Place remainder of tissue back into original collection tube
   13. Place remainder of sample back in -80 freezer
   14. Let sample soak for 5-10 minutes while prepping other samples
-  15. Remove used scalpel blade from handle
+  15. Remove used scalpel blade from handle and discard in sharps
   16. Repeat steps 6 through 15 for remaining samples
   17. After soaking, move each sample to corresponding tube of DNA/RNA shield
   18. Get proteinase K from -20 freezer and put in ice bucket - currently open tube lives in box with samples that have been processed
@@ -116,7 +116,7 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
   38. Centrifuge tubes at 13000rcf for 1 minute
   39. Pour liquid that collected in bottom tube into liquid waste and place yellow spin column back in corresponding tube
   40. Move yellow columns to new collection tubes and discard used ones with tips
-  41. Add 400ul DNA pre-wash from Zymo kit to each collection tube setup
+  41. Add 400ul DNA pre-wash from Zymo kit to each collection tube setup\
   *Labelled DNA pre-was with "Pre" on top to avoid confusion*
   42. Centrifuge tubes at 13000rcf for 1 minute
   43. Pour liquid that collected in bottom tube into liquid waste and place yellow spin column back in corresponding tube
@@ -140,3 +140,5 @@ Extracting DNA from horseshoe crab tissue for ddRAD library prep.
   60. Label new tubes from a set of strip tubes with sample numbers
   61. Remove 8ul from each 1.5mL samples and place in corresponding strip tube
   62. Place samples and strip tubes in Box in -20 upright freezer on Puritz shelf
+
+  [Maggie's Qubit Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
