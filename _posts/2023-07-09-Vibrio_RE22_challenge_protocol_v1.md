@@ -6,12 +6,6 @@ categories: Protocols
 tags: [larvae]
 projects: [ASMFC-EOBC]
 ---
-
-# Vibrio (RE22) challenge protocol (version 1)
-
-Last edited by: Megan Guidry
-Project: ASMFC-EOBC
-
 Goal stocking density for challenge —> 50 larvae/ml
 
 - 100 larvae per 2ml well
