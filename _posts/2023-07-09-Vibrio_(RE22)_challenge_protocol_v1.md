@@ -1,4 +1,13 @@
-# Vibrio (RE22) challenge protocol
+---
+layout: post
+title: Vibrio (RE22) challenge protocol (version 1)
+date: '2023-07-09'
+categories: Protocols
+tags: [larvae]
+projects: [ASMFC-EOBC]
+---
+
+# Vibrio (RE22) challenge protocol (version 1)
 
 Last edited by: Megan Guidry
 Project: ASMFC-EOBC
@@ -61,5 +70,3 @@ At CBLS (in the Gomez-Chiarri Lab and PPP Lab)
 17. Once 60-80% mortality has been assessed in plate treatments, begin genomic sampling from the jars using the Puritz Lab procedure for filtering and flash freezing larvae.
 
 **NOTE: Make sure that you don’t wait until all larvae in the RE22 treatment are dead: you want to *target a mortality of 60 - 80% (no more - no less). If necessary, count all RE22 wells first before counting controls.*** 
-
-.
