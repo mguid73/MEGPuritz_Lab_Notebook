@@ -83,11 +83,13 @@ _________________________________________________
 Notes:
 - ***Start with control group to avoid contamination*** 
 - change gloves in between treatment groups (CON/ROD)
-- Dry off and ethanol the bench top after you finish water changes for the day 
+- Ethanol gloves and surfaces to avoid contamination, but ensure it is dry before handling juveniles
+- Rinse containers and tools with ASW before using them
 
 Materials needed:
 - Artificial Seawater (ASW, 28-30ppt)
 - Shellfish Diet (SD)
+- 70% ETOH in spray bottle
 - beakers
 - green trays - for transporting cups
 - ASW squirt bottles 
@@ -95,20 +97,24 @@ Materials needed:
 
 
 Procedure:
-1. Make ASW+SD. Dilute 1.5ml of SD into 3.2L of ASW (for a full water change make up 3 3.2L jars like this)
-2. **Turn off airstones** before moving any baskets, to avoid contamination via aerosols 
-3. Remove cups for water change - start with control cups 
-4. Remove basket and pour out either 1/2 the volume or the full volume (depending upon if you're doing a 1/2 or full water change)
-5. If baskets need to be changed, rinse juveniles into new labeled basket with ASW squirt bottle. The red bins can be used to catch seawater.
-6. Top off the cup with ASW + SD for a total volume of ~650ml using a beaker to measure.
-7. Return basket to it's cup and place back in the incubator with airstone.
-8. **Turn on airstones** after all water changes are complete.
-9. Dry and ethanol the bench.
-10. Anything that touched ROD-treatment water must be bleached following the Puritz Lab bleaching protocol (see below). 
-11. Set glassware and other materials to dry on the drying pad. 
-12. Double check the air bubbles and make sure the incubator is propped open before leaving for the day.
-13. Check ASW stock and text Megan if it needs to be replenished.
-14. Record water change and any notes in lab notebook.
+1. Ethanol bench and trays and wipe dry with paper towels.
+2. Make ASW+SD. Dilute 1.5ml of SD into 3.2L of ASW (for a full water change make up 3 3.2L jars like this)
+3. **Turn off airstones** before moving any baskets, to avoid contamination via aerosols 
+4. Remove cups for water change - start with control cups 
+5. Remove basket and place it in it's treatment-specific red bin. 
+6. Into the "OLD WATER" beaker, pour out either 1/2 the volume or the full volume (depending upon if you're doing a 1/2 or full water change). 
+7. Attempt to rinse out the built up algae and poop from the basket- if possible. Tilting the basket will help to separate oysters from debris.
+    - If baskets need to be changed, rinse juveniles into new labeled basket with ASW squirt bottle. The red bins can be used to catch seawater.
+8. Top off the cup with ASW + SD (measured in the "NEW WATER" beaker) for a total volume of ~650ml.
+9. Return basket to it's cup and place back in the incubator with airstone.
+10. **Turn on airstones** after all water changes are complete.
+11. Dispose of ROD water -- ask Marta!
+12. Dry, bleach, and ethanol the benchtop.
+13. Bleach all glassware, bins, caps, squirt bottles, baskets, etc. following the Puritz Lab bleaching protocol (see below). 
+14. Set glassware and other materials to dry on the drying pad. 
+15. Double check the air bubbles and make sure the incubator is propped open before leaving for the day.
+16. Check ASW stock, bleach, and sodium thio and text Megan if any needed to be replenished. 
+17. Record water change and any notes in lab notebook (located on Puritz Lab bench).
 
 
 ## Bleaching protocol
@@ -118,12 +124,17 @@ Materials needed:
 - water
 - DI
 
+![bleach]({{ site.baseurl}}/images/bleach.jpeg)
+
 Procedure:
-1. Bleach with dilute bleach solution (a little splash or a capful plus water should be good)
-2. Let sit for 15mins
-3. Neutralize bleach with sodium thiosulfate crystals 
-4. Rinse 5-6x in hot water 
+1. Bleach with dilute bleach solution (a quick pour of bleach + water should be good). Be sure to bleach the outside of jars/beakers too with 10% bleach squirt bottle (on Puritz bench).
+2. Let sit for at least 15mins
+3. Pour out bleach
+3. Neutralize remaining bleach with sodium thiosulfate crystals dissolved in water (pour some crystals into each container and add hot water & mix)
+4. Rinse everything very, very well 5-6x in hot water
 5. Rinse in DI water
+
+
 
 
 ## Mortality estimates
@@ -134,12 +145,20 @@ Materials needed:
 - tweezers or paint brush 
 - counters
 
+Note: This dissecting scope works really great! 
+
+![scope]({{ site.baseurl}}/images/scope.jpeg)
+
+
 Procedure: 
 1. Transfer ~50 oysters to their treatment-specific dish
 2. Under magnification, assess whether the first 50 you see (at random) are alive or dead keeping count with counters
+    - living oysters will be closed and have some color to them 
+    - dead oysters can look gapped open, often have no color, and sometimes they float a little
 3. Record alive/dead counts in notebook 
 4. Perform for 1-2 baskets per treatment group
 5. Update Megan with % mortality estimates for the day (we are aiming to get 60-70%)
+6. Dishes can be wiped out with a kim wipe -- do the control dishes first to avoid contamination!
 
 
 # Final mortality counts and sampling 
