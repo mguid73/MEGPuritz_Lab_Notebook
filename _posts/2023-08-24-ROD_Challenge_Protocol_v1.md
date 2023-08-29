@@ -80,23 +80,25 @@ _________________________________________________
 - Mortality estimates on MWF
 
 
-**Mainentence schedule**
+**Maintenance schedule**
 |Day|Date|Tasks|Person|
 |---|----|-----|------|
 | T  |  8/29/23  |   1/2 water change  |   Shannon   |
-| W  |  8/30/23  |   1/2 water change  |   Shannon   |
+| W  |  8/30/23  |   mort & 1/2 water change  |   Shannon   |
 | Th  |  9/1/23  |   1/2 water change  |   Shannon   |
-| F  |  9/2/23  |   1/2 water change  |   Shannon   |
-| Sa  |  9/3/23  |   1/2 water change  |   Shannon   |
-| Su  |  9/4/23  |   1/2 water change  |   Shannon   |
-| M*  |  9/5/23  |   1/2 water change  |   Shannon   |
-| T  |  9/6/23  |   1/2 water change  |   Shannon   |
-| W  |  9/7/23  |   1/2 water change  |   Shannon   |
+| F  |  9/2/23  |   mort & full water change  |   Shannon   |
+| Sa  |  9/3/23  |   no maintenance*  |   -   |
+| Su  |  9/4/23  |   quick mort & full water change  |   Caitlin or Meg   |
+| M  |  9/5/23  |   Holiday - no maintenance*  |   -   |
+| T  |  9/6/23  |   mort & 1/2 water change  |   Shannon   |
+| W  |  9/7/23  |   mort & 1/2 water change  |   Shannon   |
 | Th  |  9/8/23  |   1/2 water change  |   Shannon   |
-| F  |  9/9/23  |   1/2 water change  |   Shannon   |
-| Sa  |  9/10/23  |   1/2 water change  |   Shannon   |
-| Su  |  9/11/23  |   1/2 water change  |   Shannon   |
+| F  |  9/9/23  |   mort & full water change  |   Shannon   |
+| Sa  |  9/10/23  |   no maintenance*   |   -   |
+| Su  |  9/11/23  |   no maintenance*  |   -   |
+| M  |  9/12/23  |   mort & 1/2 water change  |   Shannon   |
 
+*if we are not anywhere near 40-50%, no maintenance or mort count needed
 
 
 ## Water change protocol 
