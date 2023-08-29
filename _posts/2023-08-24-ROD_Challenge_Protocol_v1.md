@@ -79,6 +79,26 @@ _________________________________________________
 - 1/2 water changes + feeding every day & full water changes on Fridays to avoid weekend water change
 - Mortality estimates on MWF
 
+
+**Mainentence schedule**
+|Day|Date|Tasks|Person|
+|---|----|-----|------|
+| T  |  8/29/23  |   1/2 water change  |   Shannon   |
+| W  |  8/30/23  |   1/2 water change  |   Shannon   |
+| Th  |  9/1/23  |   1/2 water change  |   Shannon   |
+| F  |  9/2/23  |   1/2 water change  |   Shannon   |
+| Sa  |  9/3/23  |   1/2 water change  |   Shannon   |
+| Su  |  9/4/23  |   1/2 water change  |   Shannon   |
+| M*  |  9/5/23  |   1/2 water change  |   Shannon   |
+| T  |  9/6/23  |   1/2 water change  |   Shannon   |
+| W  |  9/7/23  |   1/2 water change  |   Shannon   |
+| Th  |  9/8/23  |   1/2 water change  |   Shannon   |
+| F  |  9/9/23  |   1/2 water change  |   Shannon   |
+| Sa  |  9/10/23  |   1/2 water change  |   Shannon   |
+| Su  |  9/11/23  |   1/2 water change  |   Shannon   |
+
+
+
 ## Water change protocol 
 Notes:
 - ***Start with control group to avoid contamination*** 
