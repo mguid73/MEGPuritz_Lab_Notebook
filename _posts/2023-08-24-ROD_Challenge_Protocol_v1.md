@@ -72,6 +72,13 @@ This document incorporates portions of Katrina (Kat) Kulesh's protocol from the 
 ### Innoculation
 - Add CV at quantified volume to reach a concentration in the ROD-treatment containers of 1*10^5 CFU/mL
 - Record time CV was added
+
+> **Innoculation Notes from 20230825:**
+> - *Stock OD: 0.548*
+> - *CFU/mL of Stock: 6.58\*10^8*
+> - *Amount of Stock Added to each container: 10mL* 
+> - *Time Stock Was Added: 3:00PM*
+
 _________________________________________________
 
 # Experimental maintenence
@@ -86,20 +93,22 @@ _________________________________________________
 |----|----------|----------------------------- |-------------|
 | T  |  8/29/23 |   1/2 water change           |   Shannon   |
 | W  |  8/30/23 |   mort & 1/2 water change    |  Shannon    |
-| Th |  9/1/23  |   1/2 water change           |   Shannon   |
-| F  |  9/2/23  |   mort & full water change   |   Shannon   |
-| Sa |  9/3/23  |   no maintenance*            |   -         |
-| Su |  9/4/23  |quick mort & full water change| Cait or Meg |
-| M  |  9/5/23  |   Holiday - no maintenance*  |   -         |
-| T  |  9/6/23  |   mort & 1/2 water change    |   Shannon   |
-| W  |  9/7/23  |   mort & 1/2 water change    |   Shannon   |
-| Th |  9/8/23  |   1/2 water change           |   Shannon   |
-| F  |  9/9/23  |   mort & full water change   |   Shannon   |
-| Sa |  9/10/23 |   no maintenance*            |   -         |
-| Su |  9/11/23 |   no maintenance*            |   -         |
-| M  |  9/12/23 |   mort & 1/2 water change    |   Shannon   |
+| Th |  8/31/23  |   1/2 water change           |   Shannon   |
+| F  |  9/1/23  |   mort & full water change   |   Shannon   |
+| Sa |  9/2/23  |   no maintenance*            |   -         |
+| Su |  9/3/23  |quick mort & full water change| Cait or Meg |
+| M  |  9/4/23  |   Holiday - no maintenance*  |   -         |
+| T  |  9/5/23  |   mort & 1/2 water change    |   Shannon   |
+| W  |  9/6/23  |   mort & 1/2 water change    |   Shannon   |
+| Th |  9/7/23  |   1/2 water change           |   Shannon   |
+| F  |  9/8/23  |   mort & full water change   |   Shannon   |
+| Sa |  9/9/23 |   no maintenance*            |   -         |
+| Su |  9/10/23 |   no maintenance*            |   -         |
+| M  |  9/11/23 |   mort & 1/2 water change    |   Shannon   |
 
 *if we are not anywhere near 40-50%, no maintenance or mort count needed
+
+Schedule is subject to change based on how mortality is progressing.
 
 
 ## Water change protocol 
