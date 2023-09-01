@@ -96,9 +96,9 @@ _________________________________________________
 | Th |  8/31/23  |   1/2 water change           |   Shannon   |
 | F  |  9/1/23  |   mort & full water change   |   Shannon   |
 | Sa |  9/2/23  |   no maintenance*            |   -         |
-| Su |  9/3/23  |quick mort & full water change| Cait or Meg |
+| Su |  9/3/23  |quick mort & full water change| Caitlin     |
 | M  |  9/4/23  |   Holiday - no maintenance*  |   -         |
-| T  |  9/5/23  |   mort & 1/2 water change    |   Shannon   |
+| T  |  9/5/23  |   mort & 1/2 water change    |   Caitlin   |
 | W  |  9/6/23  |   mort & 1/2 water change    |   Shannon   |
 | Th |  9/7/23  |   1/2 water change           |   Shannon   |
 | F  |  9/8/23  |   mort & full water change   |   Shannon   |
