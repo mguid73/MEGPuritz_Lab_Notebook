@@ -9,7 +9,7 @@ projects: [ASMFC-EOBC]
 
 Written by Jon Puritz, Amy Zyck and Maggie Schedl
 
-Updated by Alex Hooks, Julianna Bucci, and Megan Guidry
+Updated by Alex Hooks, Julianna Bucci, Amy Zyck, and Megan Guidry
 
 Original copy made: March 2019
 
@@ -65,7 +65,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
     3. Repeat rinses until you count 0 larvae/slide for 2 consecutive slides - this may take some time
 5. Set up the 1 mL Sedgwick Rafter slide so that the cover slip is on diagonally (see image below)
     
-    [https://lh5.googleusercontent.com/-mi5JDRari9Z4C4n39TO_UYCOhmqryrXmLxhat1b0uTMTD-w27ybczIkB4PnR-PsHBYtfbRhgnqHPL1j0ynpFvDAtNhJNE9bJEdQ2PZxSeAL9s4M2keoIcDjgth12-KgHvfFRBlhC0dSLKlH_xkHWls](https://lh5.googleusercontent.com/-mi5JDRari9Z4C4n39TO_UYCOhmqryrXmLxhat1b0uTMTD-w27ybczIkB4PnR-PsHBYtfbRhgnqHPL1j0ynpFvDAtNhJNE9bJEdQ2PZxSeAL9s4M2keoIcDjgth12-KgHvfFRBlhC0dSLKlH_xkHWls)
+    ![Sedgewick-Rafter slide loading]({{ site.baseurl}}/images/SR-slide.png)
     
 6. Continuously push the sample onto the slide. Hesitating/stopping and going will create air bubbles that make slides more difficult to count. Check the tip of the pipette under microscope to make sure no larvae stuck inside or on tip. 
 7. Straighten the cover slip over the slide. Load slide onto scope stage.
@@ -73,7 +73,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
     1. **Note: Do not look at the number you get on that counter (reduces chances of biased 2nd count).*
     2. Count the following stages (some projects will only have 1 or 2 of these stages depending upon the age of the larvae):
         - *Embryos* (these will be dark but perfectly round)
-        - *Trochophores* (dark oblong shape, possibly close to circular but with extra cellular bodies
+        - *Trochophores* (dark oblong shape, possibly close to circular but with extra cellular bodies)
         - *Veligers* (Should be classic D-shape clam-like shell with hinges or more rounded shell)
         - *Pediveligers* (large with a visible eyespot on shell and possibly a visible foot)
         - *Abnormal larvae* (any larvae that do not follow the shape descriptions above for each developmental stage)
@@ -118,7 +118,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
     - **Always start from the same corner of the Sedgewick rafter - corner marked with black dot on Sedgewick rafter slide to avoid photographing the same larva twice**
     - Make sure one side of the rafter square is completely in the image (example below)
         
-        [https://lh5.googleusercontent.com/isUHTzkGyJbtON2T-tm4ce5IN4FWCp-rJzJc5j2qITnqO4-lk3G4nb85BFkJIbhlfe4Jlf9GdbJiXzbNPzuyKJQctNHEwqOi1BNQaKg7qyHcBg8VAWa3pc96aFsfhzIpWbw_iyQwl4yo99CcMdyHFg4](https://lh5.googleusercontent.com/isUHTzkGyJbtON2T-tm4ce5IN4FWCp-rJzJc5j2qITnqO4-lk3G4nb85BFkJIbhlfe4Jlf9GdbJiXzbNPzuyKJQctNHEwqOi1BNQaKg7qyHcBg8VAWa3pc96aFsfhzIpWbw_iyQwl4yo99CcMdyHFg4)
+        ![gridinview]({{ site.baseurl}}/images/grid-in-view.png)
         
 4. Take photos of any abnormal larvae you see, and write down the image number to be added to the spreadsheet (these are extra from the 30 normal larvae)
 5. **Make sure to take photos of larvae that are orientated flat side up without anything obstructing the full larval body**
@@ -170,11 +170,11 @@ Edits made: May 2023 (AZ), October 2023 (MG)
 - Once the image is open in ImageJ, you must set the scale that you will be measuring in. To do this, you will use the length of the mesh screen as the scale. Every photograph should contain at least one side of the mesh screen
 - To set the scale, you will use the straight line tool, and, starting at the innermost part, draw the line from one end of the mesh screen to the other, ending at the innermost part
     
-    [https://lh5.googleusercontent.com/isUHTzkGyJbtON2T-tm4ce5IN4FWCp-rJzJc5j2qITnqO4-lk3G4nb85BFkJIbhlfe4Jlf9GdbJiXzbNPzuyKJQctNHEwqOi1BNQaKg7qyHcBg8VAWa3pc96aFsfhzIpWbw_iyQwl4yo99CcMdyHFg4](https://lh5.googleusercontent.com/isUHTzkGyJbtON2T-tm4ce5IN4FWCp-rJzJc5j2qITnqO4-lk3G4nb85BFkJIbhlfe4Jlf9GdbJiXzbNPzuyKJQctNHEwqOi1BNQaKg7qyHcBg8VAWa3pc96aFsfhzIpWbw_iyQwl4yo99CcMdyHFg4)
+    ![gridinview]({{ site.baseurl}}/images/grid-in-view.png) 
     
 - In the toolbar select Analyze → Set Scale. This will open a box, in which you will enter these values for Known Distance and Unit of Length (do not change values in Distance in Pixels or Pixel Aspect Ratio):
 
-![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled.png)
+![dialogbox-1]({{ site.baseurl}}/images/dialogbox.png)
 
 **Set Measurements**
 
@@ -182,7 +182,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
     - This will open a new box with different measurement options
     - Only select the Area measurement option
     
-    ![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%201.png)
+    ![dialogbox-2]({{ site.baseurl}}/images/dialogbox2.png)
     
 
 **Measuring larvae**
@@ -200,15 +200,15 @@ Edits made: May 2023 (AZ), October 2023 (MG)
                 - This will generate a length value for the circumference of the shell
 - Measurements example for a D-hinge veliger:
 
-![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%202.png)
+![ShellMeas2]({{ site.baseurl}}/images/shellmeas2.png)
 
 - Measurements example for a rounded veliger larvae:
     
-    ![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%203.png)
+    ![ShellMeas]({{ site.baseurl}}/images/shellmeas.png)
     
 - The 4 measurements will appear in this format:
 
-![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%204.png)
+![matrix]({{ site.baseurl}}/images/measmatrix.png)
 
 - We are only interested in the highlighted values
     - *It is recommended that you take the measurements in the same order every time, so that the measurement values are correctly recorded, if not, please make a note and be sure to copy data properly to the measurement data sheet (see below).*
@@ -224,7 +224,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
     - B: D-Stage veliger
     - C: Veliger
 
-![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%205.png)
+![stages]({{ site.baseurl}}/images/larvstages.png)
 
 Photo credit: [https://openi.nlm.nih.gov/detailedresult.php?img=PMC4382957_devrep-17-337-F1&req=4](https://openi.nlm.nih.gov/detailedresult.php?img=PMC4382957_devrep-17-337-F1&req=4)
 
@@ -237,4 +237,4 @@ Photo credit: [https://openi.nlm.nih.gov/detailedresult.php?img=PMC4382957_devre
         - Copy the Area value and paste it in the corresponding Area cell
         - Delete the additional area and angle measurements
 
-![Untitled](Larval%20Density%20Sample%20Processing%20-%20Fall%202023%20updat%2018a96baa737245b49806d26d1cd281fd/Untitled%206.png)
+![spreadsheet]({{ site.baseurl}}/images/spreadsheet.png)
