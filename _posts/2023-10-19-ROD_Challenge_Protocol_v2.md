@@ -49,12 +49,12 @@ Procedure:
 8. Top off the cup with ASW + SD (measured in the "NEW WATER" beaker) for a total volume of ~650ml.
 9. Return basket to it's cup and place back in the incubator with airstone.
 10. **Turn on airstones** after all water changes are complete.
-11. Dispose of ROD water -- ask Marta!
+11. Bleach ROD contaminated seawater for 15 mins and pour out.
 12. Dry, bleach, and ethanol the benchtop.
 13. Bleach all glassware, bins, caps, squirt bottles, baskets, etc. following the Puritz Lab bleaching protocol (see below). 
 14. Set glassware and other materials to dry on the drying pad. 
 15. Double check the air bubbles and make sure the incubator is propped open before leaving for the day.
-16. Check ASW stock, bleach, and sodium thio and text Megan if any needed to be replenished. 
+16. Check ASW stock, bleach, and sodium thio and text Megan/Caitlin if any needed to be replenished. 
 17. Record water change and any notes in lab notebook (located on Puritz Lab bench).
 
 
@@ -96,17 +96,17 @@ Procedure:
     - dead oysters can look gapped open, often have no color, and sometimes they float a little
 3. Set dead oysters to the side and record alive/dead counts in notebook 
 4. Place all of the living oysters back into their basket and place the dead oysters into a petri dish for imaging
-5. Imaging the dead oysters. 
-    a. Place the dish with dead oysters on a good background with good lighting so you can easy see the margins of the shells
-    b. Add a paper tag with the date, cup ID (ex. ROD-CADO1), and your initals on or near the dish (to help keep track of the dead from each cup)
-    c. Lastly, place a ruler or calipers near the dish for scale and take a *good quality* image of the dish, tag label and scale ruler
-    d. Save image to google drive folder ("ROD images")
+5. Imaging the dead oysters.  
+    a. Place the dish with dead oysters on a good background with good lighting so you can easy see the margins of the shells  
+    b. Add a paper tag with the date, cup ID (ex. ROD-CADO1), and your initals on or near the dish (to help keep track of the dead from each cup)  
+    c. Lastly, place a ruler or calipers near the dish for scale and take a *good quality* image of the dish, tag label and scale ruler  
+    d. Save image to google drive folder ("ROD images")  
     e. Example images:  
     ![mortimage1]({{ site.baseurl}}/images/JODmort.jpeg)
-    ![mortimage2]({{ site.baseurl}}/images/JODmort2.jpeg)
-6. Preserve dead oysters/shells in 95% ethanol
-    a. If you see any oyster with tissue still inside, carefully dissect out the tissue and place it in its own labeled tube and fill tube with ethanol
-    b. Place remainder of dead oysters/shells in a 2ml tube and fill tube with ethanol (we should be able to use just 1 tube/replicate for the whole challenge)
+    ![mortimage2]({{ site.baseurl}}/images/JODmort2.jpeg)  
+6. Preserve dead oysters/shells in 95% ethanol  
+    a. If you see any oyster with tissue still inside, carefully dissect out the tissue and place it in its own labeled tube and fill tube with ethanol  
+    b. Place remainder of dead oysters/shells in a 2ml tube and fill tube with ethanol (we should be able to use just 1 tube/replicate for the whole challenge)  
     c. Place tubes in a box in the 4C fridge
 7. Repeat steps 1-6 for at least 1 cup from each treatment group
 8. Update Megan with % mortality estimates for the day (we are aiming to get 60-70%)
