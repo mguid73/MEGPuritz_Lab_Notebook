@@ -97,17 +97,17 @@ Procedure:
 3. Set dead oysters to the side and record alive/dead counts in notebook 
 4. Place all of the living oysters back into their basket and place the dead oysters into a petri dish for imaging
 5. Imaging the dead oysters.  
-    a. Place the dish with dead oysters on a good background with good lighting so you can easy see the margins of the shells  
-    b. Add a paper tag with the date, cup ID (ex. ROD-CADO1), and your initals on or near the dish (to help keep track of the dead from each cup)  
-    c. Lastly, place a ruler or calipers near the dish for scale and take a *good quality* image of the dish, tag label and scale ruler  
-    d. Save image to google drive folder ("ROD images")  
-    e. Example images:  
+    - Place the dish with dead oysters on a good background with good lighting so you can easy see the margins of the shells  
+    - Add a paper tag with the date, cup ID (ex. ROD-CADO1), and your initals on or near the dish (to help keep track of the dead from each cup)  
+    - Lastly, place a ruler or calipers near the dish for scale and take a *good quality* image of the dish, tag label and scale ruler  
+    - Save image to google drive folder ("ROD images")  
+    - Example images:  
     ![mortimage1]({{ site.baseurl}}/images/JODmort.jpeg)
     ![mortimage2]({{ site.baseurl}}/images/JODmort2.jpeg)  
 6. Preserve dead oysters/shells in 95% ethanol  
-    a. If you see any oyster with tissue still inside, carefully dissect out the tissue and place it in its own labeled tube and fill tube with ethanol  
-    b. Place remainder of dead oysters/shells in a 2ml tube and fill tube with ethanol (we should be able to use just 1 tube/replicate for the whole challenge)  
-    c. Place tubes in a box in the 4C fridge
+    - If you see any oyster with tissue still inside, carefully dissect out the tissue and place it in its own labeled tube and fill tube with ethanol  
+    - Place remainder of dead oysters/shells in a 2ml tube and fill tube with ethanol (we should be able to use just 1 tube/replicate for the whole challenge)  
+    - Place tubes in a box in the 4C fridge
 7. Repeat steps 1-6 for at least 1 cup from each treatment group
 8. Update Megan with % mortality estimates for the day (we are aiming to get 60-70%)
 9. Dishes can be wiped out with a kim wipe -- do the control dishes first to avoid contamination!
@@ -117,6 +117,6 @@ Procedure:
 When mortality is around 60-70%, get good final counts of all of the replicates in each treatment group using the above procedure. 
 
 Sample remaining, living juveniles from each replicate for genomic sampling. 
-1. Add oyster to tube
-2. Flash freeze the tube in liquid nitrogen
-3. Store at -80C
+- Add oyster to tube
+- Flash freeze the tube in liquid nitrogen
+- Store at -80C
