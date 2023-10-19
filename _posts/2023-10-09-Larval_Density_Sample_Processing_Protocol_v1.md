@@ -55,7 +55,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
 
 1. Put on gloves and take samples out of 4 degree fridge (location will depend on the project)
 2. Take sample to the fume hood
-3. Add 400 uL of 1.0 M Hydrochloric Acid (HCl) to sample vial, pipette to mix, and let sample sit for a few minutes*
+3. Add 300 uL of 1.0 M Hydrochloric Acid (HCl) to sample vial, pipette to mix, and let sample sit for a few minutes*
     
     **Important note: the volume of HCl added will depend on the volume of sample, so that a 1:10 ratio of HCl to sample volume is achieved*
     
