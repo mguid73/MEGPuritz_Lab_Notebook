@@ -28,7 +28,7 @@ Edits made: May 2023 (AZ), October 2023 (MG)
 - 1.0 Molar HCl
 - Chemical hood (if using HCl)
 - Squirt bottle with Type II DI water
-- Artificial Seawater (ASW) for rinses
+- DI H2O for rinses
 - 50 mL falcon tubes (1 per sample)
 - Kimwipes
 
@@ -55,13 +55,13 @@ Edits made: May 2023 (AZ), October 2023 (MG)
 
 1. Put on gloves and take samples out of 4 degree fridge (location will depend on the project)
 2. Take sample to the fume hood
-3. Add 300 uL of 1.0 M Hydrochloric Acid (HCl) to sample vial, pipette to mix, and let sample sit for a few minutes*
+3. Add 400 uL of 1.0 M Hydrochloric Acid (HCl) to sample vial, pipette to mix, and let sample sit for a few minutes*
     
     **Important note: the volume of HCl added will depend on the volume of sample, so that a 1:10 ratio of HCl to sample volume is achieved*
     
 4. Take 1 mL of sample from the bottom of the vial using p1000 micropipette
     1. Once you’ve processed the bulk of the sample volume, continue on to rinses
-    2. *To rinse, add ~1ml ASW to the vial, pipette to mix and load slide* 
+    2. *To rinse, add ~1ml DI H2O to the vial, pipette to mix and load slide* 
     3. Repeat rinses until you count 0 larvae/slide for 2 consecutive slides - this may take some time
 5. Set up the 1 mL Sedgwick Rafter slide so that the cover slip is on diagonally (see image below)
     
