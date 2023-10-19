@@ -79,6 +79,10 @@ This document incorporates portions of Katrina (Kat) Kulesh's protocol from the 
 > - *Amount of Stock Added to each container: 10mL* 
 > - *Time Stock Was Added: 3:00PM*
 
+PCR on 20230906 confirmed that we did inoculate with ROD.
+
+
+
 _________________________________________________
 
 # Experimental maintenence
