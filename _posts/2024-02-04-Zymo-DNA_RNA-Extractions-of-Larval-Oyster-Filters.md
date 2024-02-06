@@ -32,6 +32,7 @@ This is the general protocol I followed for DNA/RNA Extractions adapted from [Am
     - Vortex the tubes every 30 minutes
 - During incubation period: 
     - Prep and label all tubes for extraction protocol (for each tube type, multiply by number of samples being processed)
+    
         |tube                                         |purpose                      |number           |
         |---------------------------------------------|-----------------------------|-----------------|
         |1.5 mL                                       |digested sample/debris tube  | * (# of samples)|
@@ -41,6 +42,7 @@ This is the general protocol I followed for DNA/RNA Extractions adapted from [Am
         |Green or white spin-column & collection tubes|RNA purification             | * (# of samples)|
         |1.5 mL                                       | final DNA sample            | * (# of samples)|
         |1.5 mL                                       |final RNA sample             | * (# of samples)|
+
     - Prepare stock of ***10 mM Tris HCl pH 8.0*** in a falcon tube (if not already done) 
 
         To make **20ml**:
