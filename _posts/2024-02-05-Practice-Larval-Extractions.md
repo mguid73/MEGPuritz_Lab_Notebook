@@ -40,7 +40,7 @@ dsDNA Broad Range & RNA Broad Range (using 1 μL of sample)
 #### Gel
 Ran 4 DNA samples on a gel with Amy (see labels)
 
-![20240205_gel_practice]({{ site.baseurl}}/images/gels/20240205_gel_practice.jpeg)
+![20240205_gel_practice]({{ site.baseurl}}/images/20240205_gel_practice.jpeg)
 
 #### TapeStation
 Ran 4 RNA samples on TapeStation. 
