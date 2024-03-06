@@ -2,7 +2,7 @@
 layout: post
 title: Practice DNA/RNA Extractions of Larval Oyster Filters
 date: '2024-02-06'
-categories: Processing, Protocols
+categories: Processing
 tags: [Crassostrea virginica, oyster, larval, DNA, RNA, Extractions]
 projects: [ASMFC-EOBC]
 ---
@@ -40,7 +40,7 @@ dsDNA Broad Range & RNA Broad Range (using 1 μL of sample)
 #### Gel
 Ran 4 DNA samples on a gel with Amy (see labels)
 
-![20240205_gel_practice]({{ site.baseurl}}/images/20240205_gel_practice.jpeg)
+    ![gel]({{ site.baseurl}}/images/20240205_gel_practice.jpeg)
 
 #### TapeStation
 Ran 4 RNA samples on TapeStation. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zymo DNA/RNA Extractions of Larval Oyster Filters
+title: Zymo DNA/RNA Extractions of Larval Oyster Filters Protocol
 date: '2024-02-06'
 categories: Processing, Protocols
 tags: [Crassostrea virginica, oyster, larval, DNA, RNA, Extractions]
