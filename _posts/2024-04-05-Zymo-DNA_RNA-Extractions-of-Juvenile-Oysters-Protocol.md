@@ -38,14 +38,15 @@ This is the general protocol I followed for DNA/RNA Extractions adapted from [Am
 During incubation period:
 - *Pull Biotium dsDNA and RNA kits out of fridge/freezer and put in drawer (light sensitive) to warm to room temperature*
 - Prep and label all tubes for extraction protocol (for each tube type, multiply by number of samples being processed)
-        |tube                                         |purpose                      |number           |
-        |---------------------------------------------|-----------------------------|-----------------|
-        |1.5 mL                                       |intmed. DNA steps            | * (# of samples)|
-        |1.5 mL                                       |intmed. RNA steps            | * (# of samples)|
-        |Yellow spin-column & collection tubes        |DNA purification             | * (# of samples)|
-        |Green or white spin-column & collection tubes|RNA purification             | * (# of samples)|
-        |1.5 mL                                       | final DNA sample            | * (# of samples)|
-        |1.5 mL                                       |final RNA sample             | * (# of samples)|
+
+|tube                                         |purpose                      |number           |
+|---------------------------------------------|-----------------------------|-----------------|
+|1.5 mL                                       |intmed. DNA steps            | * (# of samples)|
+|1.5 mL                                       |intmed. RNA steps            | * (# of samples)|
+|Yellow spin-column & collection tubes        |DNA purification             | * (# of samples)|
+|Green or white spin-column & collection tubes|RNA purification             | * (# of samples)|
+|1.5 mL                                       | final DNA sample            | * (# of samples)|
+|1.5 mL                                       |final RNA sample             | * (# of samples)|
 
 - Prep 10 mM Tris HCl pH 8.0 and RNAse-free Water for thermomixer
     - For each, 50 μL x # of samples (plus error) in 1.5 mL tubes
