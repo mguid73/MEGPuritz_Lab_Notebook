@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Zymo DNA/RNA Extractions of Juvenile Oysters Protocol
+title: Zymo RNA Extractions of Juvenile Oysters Protocol
 date: '2024-02-06'
 categories: Processing, Protocols
-tags: [Crassostrea virginica, oyster, juveniles, DNA, RNA, Extractions]
+tags: [Crassostrea virginica, oyster, juveniles, RNA, Extractions]
 projects: [ASMFC-EOBC]
 ---
 
