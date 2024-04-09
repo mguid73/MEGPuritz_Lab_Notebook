@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Zymo RNA Extractions of Juvenile Oysters Protocol
-date: '2024-04-05'
+title: Zymo DNA Extractions of Juvenile Oysters Protocol
+date: '2024-04-09'
 categories: Processing, Protocols
-tags: [Crassostrea virginica, oyster, juveniles, RNA, Extractions]
+tags: [Crassostrea virginica, oyster, juveniles, DNA, Extractions]
 projects: [ASMFC-EOBC]
 ---
 
-Using [Zymo *Quick*-RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-rna-miniprep-plus-kit)
+Using [Zymo *Quick*-DNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-miniprep-plus-kit)
 
-Extracting RNA from juvenile oyster samples from multi-stressor exposure experiment.
+Extracting DNA from juvenile oyster samples from multi-stressor exposure experiment.
 
 Juveniles were collected individually in 1.5ml tubes, preserved with liquid nitrogen, and stored in -80 freezer until processing. 
 
-This is the general protocol I followed for RNA Extractions adapted from [dual DNA/RNA extraction protcol](https://mguid73.github.io/MEGPuritz_Lab_Notebook/Zymo-DNA_RNA-Extractions-of-Juvenile-Oysters-Protocol/). I typically processed 10-12 samples at a time. 
+This is the general protocol I followed for DNA Extractions adapted from [dual DNA/RNA extraction protcol](https://mguid73.github.io/MEGPuritz_Lab_Notebook/Zymo-DNA_RNA-Extractions-of-Juvenile-Oysters-Protocol/). I typically processed 10-12 samples at a time. 
 
-**Time to Completion: 5-6 hours (includes QC)**
+**Time to Completion: TBD hours (includes QC)**
 
 ### Prep tubes
 Prep and label all tubes for extraction protocol (for each tube type, multiply by number of samples being processed)
@@ -24,15 +24,13 @@ Prep and label all tubes for extraction protocol (for each tube type, multiply b
 |---------------------------------------------|-----------------------------|-----------------|
 |1.5 mL                                       |homogenization/digest tube   | * (# of samples)|
 |1.5 mL                                       |intmed. DNA steps            | * (# of samples)|
-|1.5 mL                                       |intmed. RNA steps            | * (# of samples)|
-|Yellow spin-column & collection tubes        |Spin-away DNA                | * (# of samples)|
-|Green or white spin-column & collection tubes|RNA purification             | * (# of samples)|
-|1.5 mL                                       |final RNA sample             | * (# of samples)|
+|Yellow spin-column & collection tubes        |DNA purificiation            | * (# of samples)|
+|1.5 mL                                       |final DNA sample             | * (# of samples)|
 
 ### Homogenization 
 - Turn on thermomixer and set to 55 degrees C, speed 1000 rpm
 - Pull ***Proteinase K*** out of -20 freezer to warm to room temperature 
-- Pull ***DNAse I*** out of -20 freezer to thaw on ice
+- *Pull Biotium dsDNA kit out of fridge/freezer and put in drawer (light sensitive) to warm to room temperature*
 - In homogenization/digest tubes, add 300 μL of DNA/RNA Shield
 - Pull samples out of -80 freezer and put on ice
 - Sterilize forceps with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
@@ -41,62 +39,53 @@ Prep and label all tubes for extraction protocol (for each tube type, multiply b
 - Sterilize cone-shaped dremmel bit with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
 - Sterilize the dremmel bit between each sample
 - Insert dremmel bit into 1.5 mL tube with juvenile and grind up juvenile for ~10 seconds at speed 5
-- Add **30 μL** ***PK Digestion Buffer*** to each tube
-- Add **15 μL** ***Proteinase K***
+- Add **150 μL** of ***Solid Tissue Buffer*** to each tube
+- Add **10 μL** of ***Proteinase K***
 - Vortex and spin down
-- Incubate in thermomixer at 55 degrees C and 1000 rpm for 30 minutes
-- Halfway through incubation, spin down tubes in tabletop centrifuge for 1 minute at 13000 rpm
+- Put in thermomixer at 55 degrees C, shaking at 1000 rpm for 30 minutes
+    - Halfway through, spin down in tabletop centrifuge at 13000 rpm for 1 minute
 
 **During incubation period:**
-- *Pull Biotium RNA kit out of fridge/freezer and put in drawer (light sensitive) to warm to room temperature*
-- Prep RNAse-free Water for thermomixer
+- Prep 10 mM Tris HCl pH 8.0 for thermomixer
     - 50 μL x # of samples (plus error) in 1.5 mL tubes
     - Put in thermomixer set to 70 degrees C
-- Make DNAse reaction mix:
-    - DNA Digestion Buffer: 75 μL x # of samples
-    - DNAse I: 5 μL x # of samples
 
 **After incubation:**
 - Spin down tubes at max speed for 2 minutes in tabletop centrifuge
-- Without disturbing the debris pellet, gently transfer all supernatant (~350 μL) to *new 1.5 mL tube for DNA removal* (intmed. DNA steps)
+- Without disturbing the debris pellet, gently transfer all supernatant (~450 μL) to *new 1.5 mL tube (intmed. DNA step)*
 - Save debris pellet and store in -20 freezer (can check for incomplete digestion later on if necessary)
-- Add equal volume (300 μL) of ***RNA Lysis Buffer (kit)*** to each tube
-- Finger flick to mix
-- Transfer all supernatant (~600 μL) to *yellow spin-column*
-- Centrigue at 16000 rpm for 30 seconds
-- SAVE flow-through in *new 1.5 mL tube for RNA*
 
-
-#### RNA Purification
-- Add equal volume (**600 μL**) ***100% EtOH*** to each *1.5 mL tube for RNA* 
-- Transfer **600 μL** of supernatant to *white spin-column* 
-- Centrifuge at 16000 rpm for 30 seconds; discard flow-through
-- Repeat until all supernatant is filtered (2 times total)
-- Add **400 μL** of ***RNA Wash Buffer (kit)*** to *white spin-column*
-- Centrifuge at 16000 rpm for 30 seconds; discard flow-through
-- Add **80 μL** of ***DNAse reaction mix*** to each column (I add directly onto filter)
-- *Incubate at room temperature for 30 minutes* 
-- *NOW IS A GOOD TIME TO PULL OUT RNA QUBIT STANDARD AND TAPESTATION SUPPLIES*
-- Add **400 μL** of ***RNA Prep Buffer (kit)*** to *white spin-column* 
-- Centrifuge at 16000 rpm for 30 seconds; discard flow-through
-- Add **700 μL** of ***RNA Wash Buffer (kit)*** 
-- Centrifuge at 16000 rpm for 30 seconds; discard flow-through
-- Add **400 μL** of ***RNA Wash Buffer (kit)*** 
-- Centrifuge at 16000 rpm for **2 minutes**; discard flow-through
-- Transfer spin-column to *final RNA 1.5 mL tube*
-- Carefully drip **50 μL** of ***warmed RNAse-free Water*** directly onto filter 
+#### DNA Purification 
+- Add **400 μL** of ***Genomic Binding Buffer*** to each *intmed. DNA tube*
+- Vortex and spin down
+- Add **800 μL** of supernatant to *yellow spin-column*
+- Centrifuge at 13000 rpm for 1 minute
+- Discard flow-through
+- Transfer spin-columns to new collection tube?????????????????????????
+- Add **400 μL** of ***DNA Pre-Wash Buffer*** to spin-column
+- Centrifuge at 13000 rpm for 1 minute
+- Discard flow-through
+- Add **700 μL** of ***g-DNA Wash Buffer***
+- Centrifuge at 13000 rpm for 1 minute
+- Discard flow-through
+- Add **200 μL** of ***g-DNA Wash Buffer***
+- Centrifuge at 13000 rpm for 2 minutes; discard flow-through
+- Transfer *spin-column* to *final DNA 1.5 mL tube*
+- Carefully drip **50 μL** of warmed ***10 mM Tris HCl pH 8.0*** directly onto filter
 - *Incubate at room temperature for 5 minutes*
 - Centrifuge at 16000 rpm for 30 seconds and discard spin column
-    - KEEP FLOW-THROUGH
-- ***Should have 50 μL of RNA***
+- ***Should have 50 μL of DNA***
+
 
 #### Quality Control Check 
 
 **Qubit**
-- RNA concentrations are checked using the Biotium [RNA Broad Range](https://biotium.com/wp-content/uploads/2018/06/PI-31073.pdf) quantitation kits 
+- DNA concentrations are checked using the Biotium [dsDNA Broad Range](https://biotium.com/wp-content/uploads/2017/12/PI-31069.pdf) quantitation kit
 - use 1 μL of sample for each of the assays (unless you need to use more)
-- Final RNA concentrations (ng/μL) can be accessed [here]()
+- Final DNA and RNA concentrations (ng/μL) can be accessed [here]()
 
-**TapeStation**
-- RNA quality is checked using the [RNA ScreenTape Assay](https://www.agilent.com/cs/library/usermanuals/public/RNA_QuickGuide.pdf)
-- Sample TapeStation report can be accessed [here]()
+**Agarose Gel**
+- DNA quality is checked using an [Agarose Gel](https://meschedl.github.io/MES_Puritz_Lab_Notebook/2019-03-01/PPP-Lab-Gel-Protocol), following the protocol for a Small 1% gel run
+- use 1uL DNA diluted in 4uL nuclease free water + 1uL loading dye for sample wells
+- 100 V for 1 hr (60A)
+- Sample gel can be accessed [here]()
