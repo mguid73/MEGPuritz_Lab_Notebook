@@ -17,30 +17,12 @@ This is the general protocol I followed for DNA/RNA Extractions adapted from [Am
 
 **Time to Completion: 6-8 hours (includes QC)**
 
-### Homogenization 
-
-- Turn on thermomixer and set to 55 degrees C, speed 1000 rpm
-- Pull Proteinase K out of -20 freezer to warm to room temperature
-- In 1.5 mL tubes, add 300 μL of DNA/RNA Shield
-- Pull samples out of -80 freezer and put on ice
-- Sterilize forceps with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
-- Sterilize forceps between each sample
-- Using forceps, transfer juvenile to 1.5 mL tube with DNA/RNA Shield
-- Sterilize cone-shaped dremmel bit with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
-- Sterilize the dremmel bit between each sample
-- Insert dremmel bit into 1.5 mL tube with juvenile and grind up juvenile for ~10 seconds at speed 5
-- Add 30 μL PK Digestion Buffer to each tube
-- Add 15 μL Proteinase K
-- Vortex and spin down
-- Incubate in thermomixer at 55 degrees C and 1000 rpm for 30 minutes
-- Halfway through incubation, spin down tubes in tabletop centrifuge for 1 minute at 13000 rpm
-
-During incubation period:
-- *Pull Biotium dsDNA and RNA kits out of fridge/freezer and put in drawer (light sensitive) to warm to room temperature*
-- Prep and label all tubes for extraction protocol (for each tube type, multiply by number of samples being processed)
+### Prep tubes
+Prep and label all tubes for extraction protocol (for each tube type, multiply by number of samples being processed)
 
 |tube                                         |purpose                      |number           |
 |---------------------------------------------|-----------------------------|-----------------|
+|1.5 mL                                       |homogenization/digest tube   | * (# of samples)|
 |1.5 mL                                       |intmed. DNA steps            | * (# of samples)|
 |1.5 mL                                       |intmed. RNA steps            | * (# of samples)|
 |Yellow spin-column & collection tubes        |DNA purification             | * (# of samples)|
@@ -48,13 +30,36 @@ During incubation period:
 |1.5 mL                                       | final DNA sample            | * (# of samples)|
 |1.5 mL                                       |final RNA sample             | * (# of samples)|
 
+
+### Homogenization 
+- Turn on thermomixer and set to 55 degrees C, speed 1000 rpm
+- Pull ***Proteinase K*** out of -20 freezer to warm to room temperature 
+- Pull ***DNAse I*** out of -20 freezer to thaw on ice
+- In homogenization/digest tubes, add 300 μL of DNA/RNA Shield
+- Pull samples out of -80 freezer and put on ice
+- Sterilize forceps with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
+- Sterilize forceps between each sample
+- Using forceps, transfer juvenile to 1.5 mL tube with DNA/RNA Shield
+- Sterilize cone-shaped dremmel bit with 100% EtOH, Type II DI Water, RNAse Zap, and RNAse-free Water
+- Sterilize the dremmel bit between each sample
+- Insert dremmel bit into 1.5 mL tube with juvenile and grind up juvenile for ~10 seconds at speed 5
+- Add **30 μL** ***PK Digestion Buffer*** to each tube
+- Add **15 μL** ***Proteinase K***
+- Vortex and spin down
+- Incubate in thermomixer at 55 degrees C and 1000 rpm for 30 minutes
+- Halfway through incubation, spin down tubes in tabletop centrifuge for 1 minute at 13000 rpm
+
+**During incubation period:**
+- *Pull Biotium dsDNA and RNA kits out of fridge/freezer and put in drawer (light sensitive) to warm to room temperature*
 - Prep 10 mM Tris HCl pH 8.0 and RNAse-free Water for thermomixer
     - For each, 50 μL x # of samples (plus error) in 1.5 mL tubes
     - Put in thermomixer set to 70 degrees C
 - Make DNAse reaction mix:
     - DNA Digestion Buffer: 75 μL x # of samples
-    - DNAse I: 5 μL x # of samples
-After incubation:
+    - thawed DNAse I: 5 μL x # of samples
+
+
+**After incubation:**
 - Spin down tubes at max speed for 2 minutes in tabletop centrifuge
 - Without disturbing the debris pellet, gently transfer all supernatant (~350 μL) to new 1.5 mL tube for DNA
 - Save debris pellet and store in -20 freezer (can check for incomplete digestion later on if necessary)
@@ -74,10 +79,7 @@ After incubation:
 - Transfer *spin-column* to *final DNA 1.5 mL tube*
 - Carefully drip **50 μL** of warmed ***10 mM Tris HCl pH 8.0*** directly onto filter
 - *Incubate at room temperature for 5 minutes*
-- Centrifuge at 16000 rpm for 30 seconds
-- Pipette the 50 μL out of the *final DNA 1.5 mL tube* and drip directly onto the filter again
-- *Incubate at room temperature for 5 minutes*
-- Centrifuge at 16000 rpm for 30 seconds
+- Centrifuge at 16000 rpm for 30 seconds and discard spin column
 - ***Should have 50 μL of DNA***
 
 
@@ -89,7 +91,8 @@ After incubation:
 - Add **400 μL** of ***DNA/RNA Wash Buffer (kit)*** to *white spin-column*
 - Centrifuge at 16000 rpm for 30 seconds; discard flow-through
 - Add **80 μL** of ***DNAse reaction mix*** to each column (I add directly onto filter)
-- *Incubate at room temperature for 30 minutes*
+- *Incubate at room temperature for 30 minutes* 
+- *NOW IS A GOOD TIME TO PULL OUT RNA QUBIT STANDARD AND TAPESTATION SUPPLIES*
 - Add **400 μL** of ***DNA/RNA Prep Buffer (kit)*** to *white spin-column* 
 - Centrifuge at 16000 rpm for 30 seconds; discard flow-through
 - Add **700 μL** of ***DNA/RNA Wash Buffer (kit)*** 
@@ -99,11 +102,7 @@ After incubation:
 - Transfer spin-column to *final RNA 1.5 mL tube*
 - Carefully drip **50 μL** of ***warmed RNAse-free Water*** directly onto filter 
 - *Incubate at room temperature for 5 minutes*
-- Centrifuge at 16000 rpm for 30 seconds
-    - KEEP FLOW-THROUGH
-- Pipette the 50 μL out of the *final RNA 1.5 mL tube* and drip directly onto the filter again
-- *Incubate at room temperature for 5 minutes*
-- Centrifuge at 16000 rpm for 30 seconds
+- Centrifuge at 16000 rpm for 30 seconds and discard spin column
 - ***Should have 50 μL of RNA***
 
 #### Quality Control Check 
