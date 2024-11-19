@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DNA/RNA Extractions of 2023 Larval Oyster Filters
+title: DNA/RNA Extractions of 2024 Larval Oyster Filters
 date: '2024-08-22'
 categories: Processing
 tags: [Crassostrea virginica, oyster, larval, DNA, RNA, Extractions, Larval-CADO, Vibrio]
